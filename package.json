@@ -1,0 +1,23 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShannonDukes/Social-Network-API.git"
+  },
+  "author": "Shannon Dukes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShannonDukes/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/ShannonDukes/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.12"
+  }
+}
